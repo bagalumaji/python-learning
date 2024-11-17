@@ -12,3 +12,9 @@ print(hello_world.upper())
 #to lower case
 print(hello_world.lower())
 
+#contains
+print("hello" in hello_world)
+
+
+
+
