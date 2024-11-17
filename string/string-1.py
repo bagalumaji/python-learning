@@ -15,6 +15,7 @@ print(hello_world.lower())
 #contains
 print("hello" in hello_world)
 
+print(hello_world.__contains__("world"))
 
 
 
